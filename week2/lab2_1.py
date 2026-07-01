@@ -14,4 +14,4 @@ if num % 2 == 0:
 else:
     even_odd = "odd"
 
-print(f"The number is {text} and {even_odd}.")
+print(f"{num} The number is {text} and {even_odd}.")
